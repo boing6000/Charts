@@ -1,5 +1,5 @@
 {
-    "name": "laravel-enso/charts",
+    "name": "boing6000/charts",
     "description": "Server-side data builder for Chart.js, with a VueJS component for the frontend.",
     "keywords": [
         "laravel-enso",
